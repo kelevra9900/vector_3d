@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+## Preview App
+| Home page | Demo    | 
+|-----------|----------------| 
+| ![](https://github.com/kelevra9900/vector_3d/blob/main/screenshots/1.png) | ![](https://github.com/kelevra9900/vector_3d/blob/main/screenshots/2.gif)|
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
